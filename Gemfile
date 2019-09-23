@@ -84,3 +84,8 @@ gem 'devise'
 gem "geocoder"
 
 gem "figaro"
+
+gem 'carrierwave', '~> 1.0'
+gem 'activeresource', require: 'active_resource'
+
+gem "fog-aws"
